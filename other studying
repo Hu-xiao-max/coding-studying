@@ -1,0 +1,18 @@
+网址：https://www.zerotohero.ca/
+
+今天刚刚做了升级【1】爱沙尼亚语、前南斯拉夫诸语、阿拉伯语、挪威语、马来语、汉语这几个语言的主要方言（普通话）和涵盖语言（汉语）进行了关联，并在地图上将两者分离开（以前有坐标完全重叠现象）。【2】地图加载时有“正在加载”提示。
+
+语言地图 https://www.zerotohero.ca/language-map
+语言比较 https://www.zerotohero.ca/compare-languages
+语言人物 https://www.zerotohero.ca/language-icons
+翻译器比较 https://www.zerotohero.ca/translators
+
+有汉语界面的语言包括：
+- 英语学习 https://www.zerotohero.ca/zh/en
+- 文言文学习 https://www.zerotohero.ca/zh/lzh
+- 客家话学习 https://www.zerotohero.ca/zh/hak
+- 闽南语学习 https://www.zerotohero.ca/zh/nan
+
+可以使用首页、脚注、语言地图中的“search languages搜索条，搜索语言英语名称，或iso639-1(2个字母)、iso639-3(3个字母)的代号（比如现代希伯来语he，古希伯来语hbo等）
+或者直接使用URL pattern: https://www.zerotohero.ca/en/{语言代号}
+语言代号去百度百科查询：https://baike.baidu.com/item/%E8%AF%AD%E8%A8%80%E4%BB%A3%E7%A0%81/6594123
