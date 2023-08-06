@@ -4,3 +4,8 @@ for i in range(8):
     print(offset)
 print(4&1)
 print(4>>3)#4的二进制表达为00000100全部右移3位00000000输出为0
+
+
+
+
+
